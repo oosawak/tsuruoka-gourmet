@@ -123,7 +123,8 @@
       "map_query": "中山の清水 山形県鶴岡市中山",
       "address": "山形県鶴岡市中山（中山公民館付近・近似ピン）",
       "lat": 38.690863,
-      "lng": 139.700711
+      "lng": 139.700711,
+      "map_initial": false
     },
     {
       "id": "tsuruoka:kitahachi-tsuruoka",
