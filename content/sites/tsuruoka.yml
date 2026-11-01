@@ -1,0 +1,14 @@
+id: tsuruoka
+name: 鶴岡グルメ地図
+short_name: 鶴岡グルメ
+kind: media
+kind_label: グルメメディア
+accent: '#8a3324'
+eyebrow: TASTE OF TSURUOKA
+hero_title: '鶴岡のおいしいものを、
+地図でめぐる。'
+description: 鶴と城下町、桜の町、鶴岡市のおいしい店を、地図のピンと一緒にたどるグルメ案内です。庄内浜の海の幸、庄内鴨、孟宗汁など、食の都・庄内の味が見えてきます。
+subtitle: 鶴岡の味を地図で集めた読みもの
+hero_note: 地図と小さな旅
+about: 山形県鶴岡市内の飲食店・食のスポットを訪れた人のSNS投稿をもとに、お店と料理を地図と一緒に紹介するグルメ案内です。カバー画像はAIが作成した水彩調イラストで、実際の料理の写真は各記事に埋め込んだ元投稿で確認できます。
+hero_image: tsuruoka/hero.webp

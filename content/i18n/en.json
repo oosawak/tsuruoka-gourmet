@@ -1,0 +1,16 @@
+{
+  "sites": {
+    "tsuruoka": {
+      "name": "Tsuruoka Food Map",
+      "short_name": "Tsuruoka Food",
+      "kind_label": "Food magazine",
+      "hero_title": "Explore the flavors of Tsuruoka,\n one pin on the map at a time.",
+      "description": "A food guide to Tsuruoka, a castle town of cranes and cherry blossoms, with every eatery pinned on a map — seafood from the Shonai coast, Shonai duck, and local dishes such as moso soup.",
+      "subtitle": "Stories about the tastes of Tsuruoka, collected on a map",
+      "hero_note": "A map and short trips",
+      "about": "A food guide to eateries and food spots in Tsuruoka, Yamagata, based on social posts by visitors, presented together with a map. Cover images are AI-created watercolor illustrations; see the embedded original posts for actual photos of the food.",
+      "source_hash": "7ec99bea1b117e510e538326c8366f45d4140582ddbcb700311cb0ba76587e59"
+    }
+  },
+  "posts": {}
+}
