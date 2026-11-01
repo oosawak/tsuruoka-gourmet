@@ -6,6 +6,7 @@ summary: 鶴岡市中山の湧水「中山の清水」。「勝手にお姉さ�
 map_query: 中山の清水 山形県鶴岡市中山
 lat: 38.690863
 lng: 139.700711
+map_initial: false
 address: 山形県鶴岡市中山（中山公民館付近・近似ピン）
 cover: tsuruoka/nakayama-no-shimizu-tsuruoka.webp
 cover_alt: 山あいの湧水を描いた水彩調イラスト
