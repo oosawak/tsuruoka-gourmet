@@ -18,7 +18,14 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "Tsuruoka City's \"Totoko\" — An izakaya where you can enjoy Shonai duck skewers and duck shabu-shabu",
+      "category": "Izakaya & Yakitori",
+      "summary": "\"Totoko,\" an izakaya in Izumicho, Tsuruoka City. In addition to chicken, you can enjoy skewers of flavorful \"Shonai duck.\" The menu also features a variety of duck dishes, such as duck shabu-shabu and \"Kamo Paccho\" made with a whole duck.",
+      "cover_alt": "Watercolor-style illustration of Shonai duck skewers, duck shabu-shabu, and duck paccho",
+      "html": "<p>This is &quot;Totoko,&quot; an izakaya in Izumicho, Tsuruoka City.</p>\n<p>The post highlights that you can enjoy not only chicken, but also flavorful &quot;Shonai duck&quot; skewers. The menu also features a variety of creative duck dishes, such as duck shabu-shabu and &quot;Kamo Paccho&quot; made with a whole duck. This is a must-visit spot for anyone wanting to experience the deliciousness of Shonai duck.</p>\n<p>You can find the restaurant's location and business hours on Google Maps via &quot;Restaurant Location&quot; at the bottom of this article.</p>\n<p>Source: <a href=\"https://www.threads.com/@motched_shonai/post/DY9dHeRgc5X\">Threads post</a></p>\n",
+      "markdown": "This is \"Totoko,\" an izakaya in Izumicho, Tsuruoka City.\n\nThe post highlights that you can enjoy not only chicken, but also flavorful \"Shonai duck\" skewers. The menu also features a variety of creative duck dishes, such as duck shabu-shabu and \"Kamo Paccho\" made with a whole duck. This is a must-visit spot for anyone wanting to experience the deliciousness of Shonai duck.\n\nYou can find the restaurant's location and business hours on Google Maps via \"Restaurant Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@motched_shonai/post/DY9dHeRgc5X)\n"
+    }
   },
   "embed_url": "https://www.threads.com/@motched_shonai/post/DY9dHeRgc5X",
   "embed_platform": "threads",

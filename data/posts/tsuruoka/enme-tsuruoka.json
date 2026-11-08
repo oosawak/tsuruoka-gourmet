@@ -18,7 +18,14 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "Tsuruoka City's \"EN/ME\" — Hamburgers served on bakery buns",
+      "category": "Café & Burgers",
+      "summary": "\"EN/ME,\" a bakery cafe in Kamihata-cho, Tsuruoka City. The post features delicious hamburger buns—a specialty of a bakery. It's also a great spot to stop by on your way back from Kamo Aquarium.",
+      "cover_alt": "Watercolor-style illustration of a hamburger",
+      "html": "<p>This is &quot;EN/ME,&quot; a bakery cafe in Kamihata-cho, Tsuruoka City. The name is pronounced &quot;Enme.&quot;</p>\n<p>The post describes a visit on the way back from Kamo Aquarium, famous for its jellyfish exhibits. It notes that since it's a bakery, the buns were delicious and that the chic, calm atmosphere was also impressive.</p>\n<p>You can find the shop's location and business hours on Google Maps via &quot;Shop Location&quot; at the bottom of this article (it is closed on Tuesdays).</p>\n<p>Source: <a href=\"https://www.threads.com/@gakuki3116/post/DepzVFwDDCk\">Threads post</a></p>\n",
+      "markdown": "This is \"EN/ME,\" a bakery cafe in Kamihata-cho, Tsuruoka City. The name is pronounced \"Enme.\"\n\nThe post describes a visit on the way back from Kamo Aquarium, famous for its jellyfish exhibits. It notes that since it's a bakery, the buns were delicious and that the chic, calm atmosphere was also impressive.\n\nYou can find the shop's location and business hours on Google Maps via \"Shop Location\" at the bottom of this article (it is closed on Tuesdays).\n\nSource: [Threads post](https://www.threads.com/@gakuki3116/post/DepzVFwDDCk)\n"
+    }
   },
   "embed_url": "https://www.threads.com/@gakuki3116/post/DepzVFwDDCk",
   "embed_platform": "threads",

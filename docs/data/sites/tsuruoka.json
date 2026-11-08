@@ -60,7 +60,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Tsuruoka City's \"Totoko\" — An izakaya where you can enjoy Shonai duck skewers and duck shabu-shabu",
+          "category": "Izakaya & Yakitori",
+          "summary": "\"Totoko,\" an izakaya in Izumicho, Tsuruoka City. In addition to chicken, you can enjoy skewers of flavorful \"Shonai duck.\" The menu also features a variety of duck dishes, such as duck shabu-shabu and \"Kamo Paccho\" made with a whole duck.",
+          "cover_alt": "Watercolor-style illustration of Shonai duck skewers, duck shabu-shabu, and duck paccho"
+        }
       },
       "embed_url": "https://www.threads.com/@motched_shonai/post/DY9dHeRgc5X",
       "embed_platform": "threads",
@@ -89,7 +94,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Tsuruoka City's \"Sachiko's Ochazuke\" — Moso Soup and Mountain Delicacies, a Place for Heartfelt Conversation",
+          "category": "Izakaya & Regional Cuisine",
+          "summary": "\"Sachiko's Ochazuke\" in Shinmei-cho, Tsuruoka City. The post features local Tsuruoka specialties such as Moso-jiru (miso soup with Moso bamboo and sake lees), blanched bracken, stir-fried amadokoro, and agedashi tofu.",
+          "cover_alt": "Watercolor-style illustrations depicting Moso soup, ochazuke, wild mountain vegetable dishes, and more."
+        }
       },
       "embed_url": "https://www.threads.com/@hareyoon2022/post/DW7byexk__S",
       "embed_platform": "threads",
@@ -118,7 +128,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Tsuruoka City's \"Nakayama no Shimizu\" — The Delicious Spring Water Katte ni Oneesan Went to Fetch (Video)",
+          "category": "Spring Water & Spots",
+          "summary": "\"Nakayama no Shimizu,\" a spring in Nakayama, Tsuruoka City. A video posted by \"Katte ni Oneesan\" shows her going to collect spring water after being recommended by a local resident. It is cold, delicious water that gushes forth vigorously from along a wide road. The pin marks the approximate location in the Nakayama area.",
+          "cover_alt": "Watercolor-style illustration of spring water in the mountains"
+        }
       },
       "embed_url": "https://www.threads.com/@katteni_oneesan/post/DZHvTVfAYBl",
       "embed_platform": "threads",
@@ -148,7 +163,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Tsuruoka City \"Shonai Kaisen Ryori Kitahachi\" — Lunch Course Featuring Seasonal Shonai Delicacies",
+          "category": "Japanese & Seafood",
+          "summary": "\"Shonai Kaisen Ryori Kitahachi,\" a Japanese restaurant in Honmachi, Tsuruoka City. The post features a lunch course featuring appetizers made with seasonal Shonai ingredients, fresh sashimi, and even fried shrimp wrapped in kadaif. Lunch sets are also available.",
+          "cover_alt": "Watercolor-style illustration of a lunch course (sashimi, appetizers, etc.)"
+        }
       },
       "embed_url": "https://www.threads.com/@littlegreen74820/post/DfLbr5rH7KR",
       "embed_platform": "threads",
@@ -177,7 +197,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Tsuruoka City's \"Ankan-dokoro Kanma\" — Hand-baked Dorayaki and Seasonal Shiratama Zenzai",
+          "category": "Sweets & Wagashi",
+          "summary": "\"Ankan-dokoro Kanma,\" a sweets shop in Shinmei-cho, Tsuruoka City. You can enjoy hand-baked dorayaki and anmitsu right on the premises. The post features moist dorayaki and the seasonal shiratama zenzai.",
+          "cover_alt": "Watercolor-style illustration of hand-baked dorayaki and shiratama zenzai"
+        }
       },
       "embed_url": "https://www.threads.com/@littlegreen74820/post/DfLaWX8H6Uj",
       "embed_platform": "threads",
@@ -206,7 +231,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Tsuruoka City's \"EN/ME\" — Hamburgers served on bakery buns",
+          "category": "Café & Burgers",
+          "summary": "\"EN/ME,\" a bakery cafe in Kamihata-cho, Tsuruoka City. The post features delicious hamburger buns—a specialty of a bakery. It's also a great spot to stop by on your way back from Kamo Aquarium.",
+          "cover_alt": "Watercolor-style illustration of a hamburger"
+        }
       },
       "embed_url": "https://www.threads.com/@gakuki3116/post/DepzVFwDDCk",
       "embed_platform": "threads",
@@ -235,7 +265,12 @@
         "mime": "image/webp"
       },
       "i18n": {
-        "en": {}
+        "en": {
+          "title": "Tsuruoka City \"CAFE EAST\" — Snow Crab Sesame Cream Udon at Grand El Sun",
+          "category": "Café & Dining",
+          "summary": "\"CAFE EAST\" is located inside Grand El Sun in Higashihara-cho, Tsuruoka City. The post features a new lunch menu item: \"Rich Sesame Cream Udon with Snow Crab and Vegetables.\" This cafe-dining spot also offers dine-in options for flat-noodle Napolitan and cakes.",
+          "cover_alt": "A watercolor-style illustration of rich sesame cream udon with snow crab and vegetables"
+        }
       },
       "embed_url": "https://www.threads.com/@littlegreen74820/post/DfLkVgen4MI",
       "embed_platform": "threads",

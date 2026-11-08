@@ -18,7 +18,14 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "Tsuruoka City \"CAFE EAST\" — Snow Crab Sesame Cream Udon at Grand El Sun",
+      "category": "Café & Dining",
+      "summary": "\"CAFE EAST\" is located inside Grand El Sun in Higashihara-cho, Tsuruoka City. The post features a new lunch menu item: \"Rich Sesame Cream Udon with Snow Crab and Vegetables.\" This cafe-dining spot also offers dine-in options for flat-noodle Napolitan and cakes.",
+      "cover_alt": "A watercolor-style illustration of rich sesame cream udon with snow crab and vegetables",
+      "html": "<p>This is &quot;CAFE EAST,&quot; a cafe located inside Grand El Sun in Higashihara-cho, Tsuruoka City.</p>\n<p>The post introduces a new lunch menu item: &quot;Rich Sesame Cream Udon with Snow Crab and Vegetables.&quot; This dish features warm udon generously coated in a rich crab and cream sauce, and the menu also includes pasta options such as flat Napolitan. The post notes that guests can also enjoy cakes for dine-in and relax with the all-you-can-drink drink option.</p>\n<p>You can find the restaurant's location and business hours on Google Maps via &quot;Restaurant Location&quot; at the bottom of this article.</p>\n<p>Source: <a href=\"https://www.threads.com/@littlegreen74820/post/DfLkVgen4MI\">Threads post</a></p>\n",
+      "markdown": "This is \"CAFE EAST,\" a cafe located inside Grand El Sun in Higashihara-cho, Tsuruoka City.\n\nThe post introduces a new lunch menu item: \"Rich Sesame Cream Udon with Snow Crab and Vegetables.\" This dish features warm udon generously coated in a rich crab and cream sauce, and the menu also includes pasta options such as flat Napolitan. The post notes that guests can also enjoy cakes for dine-in and relax with the all-you-can-drink drink option.\n\nYou can find the restaurant's location and business hours on Google Maps via \"Restaurant Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@littlegreen74820/post/DfLkVgen4MI)\n"
+    }
   },
   "embed_url": "https://www.threads.com/@littlegreen74820/post/DfLkVgen4MI",
   "embed_platform": "threads",
