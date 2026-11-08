@@ -1,0 +1,31 @@
+{
+  "site": "tsuruoka",
+  "category_map": {
+    "カフェ・ダイニング": "Café & Dining",
+    "カフェ・ハンバーガー": "Café & Burgers",
+    "甘味・和菓子": "Sweets & Wagashi",
+    "和食・海鮮": "Japanese & Seafood",
+    "湧水・スポット": "Spring Water & Spots",
+    "居酒屋・郷土料理": "Izakaya & Regional Cuisine",
+    "居酒屋・焼き鳥": "Izakaya & Yakitori"
+  },
+  "note": "PLaMo 3 Translate 用の用語集。terms は全段落共通でモデルへ渡す。",
+  "terms": [
+    {
+      "source": "鶴岡",
+      "target": "Tsuruoka"
+    },
+    {
+      "source": "だだちゃ豆",
+      "target": "dadacha beans"
+    },
+    {
+      "source": "湧水",
+      "target": "spring water"
+    },
+    {
+      "source": "庄内",
+      "target": "Shonai"
+    }
+  ]
+}
